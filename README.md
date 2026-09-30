@@ -5,7 +5,15 @@ A multi-site enterprise network designed and configured using **Cisco Packet Tra
 
 The project connects three different locations — **Pune, Mumbai, and Delhi** — and demonstrates practical implementation of routing, switching, VLANs, network security, and end-to-end connectivity.
 
-## 🏢 Network Topology
+## 📸 Project Screenshots
+
+### Network Topology
+
+![Multi-Site Enterprise Network](Screenshots/topology.png)
+
+### End-to-End Connectivity
+
+![Successful Ping](Screenshots/successful-ping.png)
 
 The network consists of three sites:
 
