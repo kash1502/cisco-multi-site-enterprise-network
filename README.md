@@ -13,7 +13,7 @@ The project connects three different locations â€” **Pune, Mumbai, and Delhi** â
 
 ### End-to-End Connectivity
 
-![Successful Ping](Screenshots/successful-ping.png)
+![Successful Ping](Screenshots/successful_ping.png)
 
 The network consists of three sites:
 
